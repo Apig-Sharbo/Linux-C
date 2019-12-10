@@ -1,3 +1,5 @@
+// compile using gcc thread1.c -o thread1.exe -lpthread
+
 #include <stdio.h>
 #include <unistd.h>
 #include <pthread.h>
