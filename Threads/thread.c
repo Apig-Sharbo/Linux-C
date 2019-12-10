@@ -1,4 +1,4 @@
-// run using gcc thread.c -o thread.exe -lpthread
+// compile using gcc thread.c -o thread.exe -lpthread
 
 #include <stdio.h>
 #include <unistd.h>
